@@ -1,0 +1,162 @@
+[2023-04-13 14:16:01][info][main.cpp:92]:WebSocket server is running.
+[2023-04-13 14:16:02][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:02][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:03][info][zk_webSocket.cpp:79]:recv: {"name":"REGISTER","data":[]}
+[2023-04-13 14:16:03][info][zk_webSocket.cpp:107]:收到用户注册测点
+[2023-04-13 14:16:07][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:07][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:07][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:79]:recv: {"name":"REGISTER","data":[]}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:107]:收到用户注册测点
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:79]:recv: {"name":"ORIGINAL","data":null}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:141]:sendOriginal data: {
+	"data" : 
+	{
+		"t1" : 1.34,
+		"t2" : 5.67,
+		"t3" : 3.24
+	},
+	"name" : "ORIGINALDATA"
+}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:142]:sendOriginal nameMap: {
+	"data" : 
+	{
+		"t1" : "测试点1",
+		"t2" : "测试点2",
+		"t3" : "测试点3"
+	},
+	"name" : "NAMEMAP"
+}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : 1.34,
+		"t2" : 5.67,
+		"t3" : 3.24
+	},
+	"name" : "ORIGINALDATA"
+}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : 1.34,
+		"t2" : 5.67,
+		"t3" : 3.24
+	},
+	"name" : "ORIGINALDATA"
+}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : "测试点1",
+		"t2" : "测试点2",
+		"t3" : "测试点3"
+	},
+	"name" : "NAMEMAP"
+}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : "测试点1",
+		"t2" : "测试点2",
+		"t3" : "测试点3"
+	},
+	"name" : "NAMEMAP"
+}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:08][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:79]:recv: {"name":"ORIGINAL","data":null}
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:141]:sendOriginal data: {
+	"data" : 
+	{
+		"t1" : 1.34,
+		"t2" : 5.67,
+		"t3" : 3.24
+	},
+	"name" : "ORIGINALDATA"
+}
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:142]:sendOriginal nameMap: {
+	"data" : 
+	{
+		"t1" : "测试点1",
+		"t2" : "测试点2",
+		"t3" : "测试点3"
+	},
+	"name" : "NAMEMAP"
+}
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : 1.34,
+		"t2" : 5.67,
+		"t3" : 3.24
+	},
+	"name" : "ORIGINALDATA"
+}
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : 1.34,
+		"t2" : 5.67,
+		"t3" : 3.24
+	},
+	"name" : "ORIGINALDATA"
+}
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : "测试点1",
+		"t2" : "测试点2",
+		"t3" : "测试点3"
+	},
+	"name" : "NAMEMAP"
+}
+[2023-04-13 14:16:12][info][zk_webSocket.cpp:173]:send: {
+	"data" : 
+	{
+		"t1" : "测试点1",
+		"t2" : "测试点2",
+		"t3" : "测试点3"
+	},
+	"name" : "NAMEMAP"
+}
+[2023-04-13 14:16:13][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:13][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:13][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:14][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:14][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:14][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:15][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:15][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:15][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:16][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:16][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:16][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:19][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:19][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:48][info][main.cpp:92]:WebSocket server is running.
+[2023-04-13 14:16:52][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:16:52][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:16:53][info][zk_webSocket.cpp:79]:recv: {"name":"REGISTER","data":[]}
+[2023-04-13 14:16:53][info][zk_webSocket.cpp:107]:收到用户注册测点
+[2023-04-13 14:17:00][info][main.cpp:92]:WebSocket server is running.
+[2023-04-13 14:17:51][info][main.cpp:92]:WebSocket server is running.
+[2023-04-13 14:17:52][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:17:52][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:17:53][info][zk_webSocket.cpp:79]:recv: {"name":"REGISTER","data":[]}
+[2023-04-13 14:17:53][info][zk_webSocket.cpp:107]:收到用户注册测点
+[2023-04-13 14:18:53][info][main.cpp:98]:WebSocket server is running.
+[2023-04-13 14:18:57][info][zk_webSocket.cpp:79]:recv: {"name":"HEART"}
+[2023-04-13 14:18:57][info][zk_webSocket.cpp:173]:send: {"name":"HEART"}
+[2023-04-13 14:18:58][info][zk_webSocket.cpp:79]:recv: {"name":"REGISTER","data":[]}
+[2023-04-13 14:18:58][info][zk_webSocket.cpp:107]:收到用户注册测点
+[2023-04-13 14:20:38][info][main.cpp:98]:WebSocket server is running.
+[2023-04-13 14:20:45][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
+[2023-04-13 14:20:50][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
+[2023-04-13 14:20:55][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
+[2023-04-13 14:20:58][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
+[2023-04-13 14:21:01][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
+[2023-04-13 14:21:01][info][zk_webSocket.cpp:42]:Successfully import data from ../workspace/conf/datasource.json.
